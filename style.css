@@ -1,0 +1,31 @@
+body{
+    background: rgb(255, 0, 0);
+}
+
+#heading {
+    font-style: italic;
+    color: rgb(255, 140, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h4 {
+    color:blue
+}
+
+.name_of_people  {
+    background: yellow;
+    color: rgb(0, 0, 255);
+    width: 70%;
+    height: 5%;
+}
+
+#label_webcam {
+    color: rgb(0, 0, 255);
+    
+}
+
+#camera {
+    width: 300px;
+    height: 250px;
+    border: 2px dashed black;
+}
